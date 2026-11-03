@@ -8,8 +8,8 @@ The site is a lightweight static website built with HTML and CSS and hosted thro
 
 ## Project directory
 
-- **Horichan** — multipurpose Discord bot.
-- **HORICHAN Sentinel** — companion web dashboard for Horichan.
+- **Horicane** — multipurpose Discord bot.
+- **HORICANE Sentinel** — companion web dashboard for Horicane.
 - **Meridian** — custom browser project based on Mozilla Firefox and Gecko.
 - **Orbit** — lightweight desktop environment concept.
 - **Silverline Realms** — Minecraft project.
